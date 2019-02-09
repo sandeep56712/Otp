@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1061443559093",
+    "firebase_url": "https://otpverification-82afe.firebaseio.com",
+    "project_id": "otpverification-82afe",
+    "storage_bucket": "otpverification-82afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061443559093:android:b2042d7048af1644",
+        "android_client_info": {
+          "package_name": "beangate.datta.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061443559093-a35e6trodk2dcqo0dr8j6u0j3qg3fg35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4aN3TafkwDkBKoaK8E-RzQ2KZRKdRNFU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
